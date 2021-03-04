@@ -1,0 +1,22 @@
+
+							  ESCUELA POLITÉCNICA NACIONAL
+								REPORTE DE CALIFICACIONES
+Año electivo: 2020-2021
+Materia: 
+
+N°	Estudiante		Apellido		Correo							Nota 1	Total
+1	Raúl			Tenorio			dadsadasdsdsa					20.00	20.00
+2	manuel			auqui			dassadadsadsad					18.00	18.00
+3	Leonel			Lomila			sdsadasdad						12.00	12.00
+4	jimy			calvo			dsadsadsaasdsa					5.00	5.00
+
+RESUMEN
+Promedio del curso: 13.75
+
+      │ 						Aprobados(14-20)						2
+TOTAL │ 						Suspenso(9-13)  						1
+      │ 						Reprobados(1-8) 						1
+
+								  Docente
+								
+								 
